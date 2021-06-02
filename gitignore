@@ -1,0 +1,17 @@
+# Mac OS X specific
+.DS_Store
+
+# Python build directories
+__pycache__/
+
+# C++ build files
+build/
+shell
+test_runner
+*.o
+
+# Latex intermediate files
+*.aux
+*.out
+*.log
+
